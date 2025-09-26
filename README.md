@@ -184,6 +184,9 @@ Instead of hardcoding your API key:
 
 ## 📈 Example Screenshots
 
+![Alt text]([screenshot.png](https://github.com/haniayasserr/weather-trends-analyzer/blob/main/Screenshot%20(137).png))
+
+
 
 
 
