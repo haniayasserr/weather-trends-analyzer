@@ -195,6 +195,3 @@ Instead of hardcoding your API key:
 
 ---
 
-**🌟 Try the live demo: [your-app.streamlit.app](https://your-app.streamlit.app)**
-
-**⭐ Star this repository if you found it useful!**
