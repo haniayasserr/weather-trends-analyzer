@@ -185,6 +185,10 @@ Instead of hardcoding your API key:
 ## 📈 Example Screenshots
 
 ![Alt text](Screenshot%20(137).png)
+![Screenshot 138](Screenshot%20(138).png)
+![Screenshot 140](Screenshot%20(140).png)
+![Screenshot 142](Screenshot%20(142).png)
+![Screenshot 143](Screenshot%20(143).png)
 
 
 
